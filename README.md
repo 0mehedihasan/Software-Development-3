@@ -4,12 +4,6 @@ This is an E-Commerce website built for the online sale of electronic products.
 - **Course Name**: Software Engineering Lab
 - **Course Code**: 328
 - **Course Instructor**: Labiba Farah, Lecturer, BUBT
-## Our Top Contributors 
-<p align="center">
-  <a href="https://github.com/0mehedihasan/Software-Development-3/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=0mehedihasan/Software-Development-3" max-width="1000" columns="5" anon="1" />
-  </a>
-</p>
 
 ## Our Team
 <div style="display: flex; align-items: center; margin: 10px;">
@@ -23,10 +17,19 @@ This is an E-Commerce website built for the online sale of electronic products.
 </div>
 <div style="display: flex; align-items: center; margin: 10px;">
   <!-- Contributor 1 Image -->
+  <a href="https://github.com/Abdullahanim17">
+    <img src="https://avatars.githubusercontent.com/pranto-9" width="100" height="100" alt="Md Mehedi Hasan" />
+    <div style="margin-left: 10px;">
+    <a href="https://github.com/Abdullahanim17">Abdullah Al Hill Baki Anim</a><br />
+    ID: 21225103357
+    </div></a>
+</div>
+<div style="display: flex; align-items: center; margin: 10px;">
+  <!-- Contributor 1 Image -->
   <a href="https://github.com/0mehedihasan">
     <img src="https://avatars.githubusercontent.com/pranto-9" width="100" height="100" alt="Md Mehedi Hasan" />
     <div style="margin-left: 10px;">
-    <a href="https://github.com/0mehedihasan">Mehedi Hasan Pranto</a><br />
+    <a href="https://github.com/pranto-9">Mehedi Hasan Pranto</a><br />
     ID: 21225103357
     </div></a>
 </div>
