@@ -155,16 +155,38 @@ Select the master branch > Next > Next > Finish.
 ##### ADMIN
 - Home Page
 ![image](https://github.com/0mehedihasan/Software-Development-3/blob/main/OUTPUT/ADMIN/1.png)
-- demo
-![image](https://github.com/0mehedihasan/Software-Development-3/blob/main/OUTPUT/ADMIN/2.png)
-
-##### USER
-- Home Page
-![image](https://github.com/0mehedihasan/Software-Development-3/blob/main/OUTPUT/ADMIN/1.png)
 - Product View
 ![image](https://github.com/0mehedihasan/Software-Development-3/blob/main/OUTPUT/ADMIN/2.png)
 - Product Update
 ![image](https://github.com/mushfiq525/Software-Development-3/blob/main/OUTPUT/ADMIN/3.png)
+- Stock Products
+![image](https://github.com/mushfiq525/Software-Development-3/blob/main/OUTPUT/ADMIN/4.png)
+- Unshipped Items
+![image](https://github.com/mushfiq525/Software-Development-3/blob/main/OUTPUT/ADMIN/5.png)
+- Shipped items
+![image](https://github.com/mushfiq525/Software-Development-3/blob/main/OUTPUT/ADMIN/6.png)
+- Add Products
+![image](https://github.com/mushfiq525/Software-Development-3/blob/main/OUTPUT/ADMIN/7.png)
+
+##### USER
+- Registration
+![image](https://github.com/mushfiq525/Software-Development-3/blob/main/OUTPUT/USER/3.png)
+- Login
+![image](https://github.com/mushfiq525/Software-Development-3/blob/main/OUTPUT/USER/4.png)
+- Homepage
+![image](https://github.com/mushfiq525/Software-Development-3/blob/main/OUTPUT/USER/1.png)
+- Product View
+![image](https://github.com/mushfiq525/Software-Development-3/blob/main/OUTPUT/USER/6.png)
+- Shopping Cart
+![image](https://github.com/mushfiq525/Software-Development-3/blob/main/OUTPUT/USER/7.png)
+- Payment
+![image](https://github.com/mushfiq525/Software-Development-3/blob/main/OUTPUT/USER/8.png)
+- Order Details
+![image](https://github.com/mushfiq525/Software-Development-3/blob/main/OUTPUT/USER/9.png)
+- User Profile
+![image](https://github.com/mushfiq525/Software-Development-3/blob/main/OUTPUT/USER/10.png)
+- Update Profile
+![image](https://github.com/mushfiq525/Software-Development-3/blob/main/OUTPUT/USER/11.png)
 
 
 ## License
