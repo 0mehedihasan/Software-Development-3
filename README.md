@@ -4,6 +4,14 @@ This is an E-Commerce website built for the online sale of electronic products.
 - **Course Name**: Software Engineering Lab
 - **Course Code**: 328
 - **Course Instructor**: Labiba Farah, Lecturer, BUBT
+<div style="display: flex; align-items: center; margin: 10px;">
+  <a href="https://labibafarah.vercel.app/">
+    <img src="https://avatars.githubusercontent.com/Abonty18" width="100" height="100" alt="Md Mehedi Hasan" />
+    <div style="margin-left: 10px;">
+    <a href="https://github.com/Abonty18">Labiba Farah</a><br />
+    Lecturer, BUBT
+    </div></a>
+</div>
 
 ## Our Team
 <div style="display: flex; align-items: center; margin: 10px;">
