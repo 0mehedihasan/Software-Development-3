@@ -115,6 +115,11 @@ Select the master branch > Next > Next > Finish.
 - **Step 9:** To change the port if encountering an error like 'port already in use', open the server tab > Double-click on Tomcat Server > Ports > Change the port number for HTTP/1.1 to 8083 > Close and save.     - Start the server and access the project at [http://localhost:8083/Deshi-Gadgets/](http://localhost:8083/Deshi-Gadgets/).
 - **Step 10:** The default username and password for the admin is "admin@gmail.com" and "admin".
 - **Step 11:** The default username and password for the user is "guest@gmail.com" and "guest".
+#### Some Screenshots for the project:
+##### ADMIN
+- Home Page
+![image](https://github.com/0mehedihasan/Software-Development-3/blob/main/OUTPUT/ADMIN/1.png)
+
 #### "Suggestions and project improvement ideas are welcomed!"
 <bold>Thanks a lot,</bold><br/>
 Project Leader<br/>
