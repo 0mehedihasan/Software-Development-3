@@ -94,10 +94,13 @@ Users will receive notification emails in the following scenarios:
 ### Database:
 - MySQL
 ### ER Diagram
-<img width="589" alt="image" src="https://github.com/0mehedihasan/Software-Development-3/blob/main/Documentations/ER.jpg">
+<img width="589" alt="image" src="https://github.com/0mehedihasan/Software-Development-3/blob/main/Documentations/Deshi%20Gadgets%20ER%20diagram%20(crow's%20foot).png">
 
 ### UML DIAGRAM
 <img width="589" alt="image" src="https://github.com/0mehedihasan/Software-Development-3/blob/main/Documentations/Use%20case%20diagram.jpeg">
+
+  ### WBS DIAGRAM
+<img width="589" alt="image" src="https://github.com/0mehedihasan/Software-Development-3/blob/main/Documentations/WBS.jpg">
 
 ### ================ Software And Tools Required ================
 - : Git [https://git-scm.com/downloads]
