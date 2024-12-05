@@ -15,3 +15,25 @@ A **key feature** of this project is the email notifications for users. When a u
 
 - **Note:** The payment page is for demonstration purposes only and is not connected to a real payment gateway. For now, any credit card details can be used to place a demo order.
 ---
+# Project Overview
+## Key Features
+### Notification Emails
+Users will receive notification emails in the following scenarios:
+- Upon registration on the website.
+- After successfully placing an order.
+- When a previously out-of-stock item becomes available again.
+- When an order is shipped or delivered.
+## Technologies Utilized
+### Front-End:
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+### Back-End:
+- Java (JDK 21) [JDK8+ MUST]
+- JDBC
+- Servlets
+- JSP
+### Database:
+- MySQL
+
