@@ -97,7 +97,7 @@ Users will receive notification emails in the following scenarios:
 <img width="589" alt="image" src="https://github.com/0mehedihasan/Software-Development-3/blob/main/Documentations/ER.jpg">
 
 ### UML DIAGRAM
-<img width="589" alt="image" src="https://github.com/0mehedihasan/Software-Development-3/blob/main/Documentations/ER.jpg">
+<img width="589" alt="image" src="https://github.com/0mehedihasan/Software-Development-3/blob/main/Documentations/Use%20case%20diagram.jpeg">
 
 ### ================ Software And Tools Required ================
 - : Git [https://git-scm.com/downloads]
