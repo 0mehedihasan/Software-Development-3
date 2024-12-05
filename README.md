@@ -126,14 +126,15 @@ Select the master branch > Next > Next > Finish.
 - This `README.md` now reflects that the project is licensed under the **Apache License 2.0**.
 
 #### "Suggestions and project improvement ideas are welcomed!"
-- Complete this process in GitHub (in your browser)
+##### 💡 Wanna Contribute?
+We'd love to have you on board! Whether you want to fix bugs, add new features, improve the documentation, or just share your ideas, **every contribution makes a difference**.
+###### Here's how you can get started:
 ```mermaid
 flowchart LR
     Fork[Fork the project]-->branch[Create a New Branch]
     branch-->Edit[Edit file]
     Edit-->commit[Commit the changes]
     commit -->|Finally|creatpr((Create a Pull Request))
-    
  ```
 <bold>Thanks a lot,</bold><br/>
 Project Leader<br/>
