@@ -120,7 +120,21 @@ Select the master branch > Next > Next > Finish.
 - Home Page
 ![image](https://github.com/0mehedihasan/Software-Development-3/blob/main/OUTPUT/ADMIN/1.png)
 
+
+## License
+- This project is licensed under the Apache License 2.0 - <a href="https://github.com/0mehedihasan/Software-Development-3?tab=Apache-2.0-1-ov-file">see the LICENSE file for details</a>.
+- This `README.md` now reflects that the project is licensed under the **Apache License 2.0**.
+
 #### "Suggestions and project improvement ideas are welcomed!"
+- Complete this process in GitHub (in your browser)
+```mermaid
+flowchart LR
+    Fork[Fork the project]-->branch[Create a New Branch]
+    branch-->Edit[Edit file]
+    Edit-->commit[Commit the changes]
+    commit -->|Finally|creatpr((Create a Pull Request))
+    
+ ```
 <bold>Thanks a lot,</bold><br/>
 Project Leader<br/>
 <b>Md Mehedi Hasan</b>
