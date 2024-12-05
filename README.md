@@ -96,10 +96,13 @@ Users will receive notification emails in the following scenarios:
 ### ER Diagram
 <img width="589" alt="image" src="https://github.com/0mehedihasan/Software-Development-3/blob/main/Documentations/Deshi%20Gadgets%20ER%20diagram%20(crow's%20foot).png">
 
-### UML DIAGRAM
+### Use Case DIAGRAM
 <img width="589" alt="image" src="https://github.com/0mehedihasan/Software-Development-3/blob/main/Documentations/Use%20case%20diagram.jpeg">
 
-  ### WBS DIAGRAM
+### CLASS DIAGRAM
+<img width="589" alt="image" src="https://github.com/0mehedihasan/Software-Development-3/blob/main/Documentations/Class%20diagram.jpeg">
+
+### WBS DIAGRAM
 <img width="589" alt="image" src="https://github.com/0mehedihasan/Software-Development-3/blob/main/Documentations/WBS.jpg">
 
 ### ================ Software And Tools Required ================
