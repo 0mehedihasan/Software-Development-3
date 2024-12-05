@@ -149,6 +149,14 @@ Select the master branch > Next > Next > Finish.
 ##### ADMIN
 - Home Page
 ![image](https://github.com/0mehedihasan/Software-Development-3/blob/main/OUTPUT/ADMIN/1.png)
+- demo
+![image](https://github.com/0mehedihasan/Software-Development-3/blob/main/OUTPUT/ADMIN/2.png)
+
+##### USER
+- Home Page
+![image](https://github.com/0mehedihasan/Software-Development-3/blob/main/OUTPUT/ADMIN/1.png)
+- demo
+![image](https://github.com/0mehedihasan/Software-Development-3/blob/main/OUTPUT/ADMIN/2.png)
 
 
 ## License
