@@ -155,8 +155,10 @@ Select the master branch > Next > Next > Finish.
 ##### USER
 - Home Page
 ![image](https://github.com/0mehedihasan/Software-Development-3/blob/main/OUTPUT/ADMIN/1.png)
-- demo
+- Product View
 ![image](https://github.com/0mehedihasan/Software-Development-3/blob/main/OUTPUT/ADMIN/2.png)
+- Product Update
+![image](https://github.com/mushfiq525/Software-Development-3/blob/main/OUTPUT/ADMIN/3.png)
 
 
 ## License
