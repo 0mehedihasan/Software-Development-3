@@ -17,8 +17,17 @@ This is an E-Commerce website built for the online sale of electronic products.
 </div>
 <div style="display: flex; align-items: center; margin: 10px;">
   <!-- Contributor 1 Image -->
+  <a href="https://github.com/mushfiq525">
+    <img src="https://avatars.githubusercontent.com/mushfiq525" width="100" height="100" alt="Md Mehedi Hasan" />
+    <div style="margin-left: 10px;">
+    <a href="https://github.com/mushfiq525">mushfiq525</a><br />
+    ID: 21225103357
+    </div></a>
+</div>
+<div style="display: flex; align-items: center; margin: 10px;">
+  <!-- Contributor 1 Image -->
   <a href="https://github.com/Abdullahanim17">
-    <img src="https://avatars.githubusercontent.com/pranto-9" width="100" height="100" alt="Md Mehedi Hasan" />
+    <img src="https://avatars.githubusercontent.com/Abdullahanim17" width="100" height="100" alt="Md Mehedi Hasan" />
     <div style="margin-left: 10px;">
     <a href="https://github.com/Abdullahanim17">Abdullah Al Hill Baki Anim</a><br />
     ID: 21225103357
