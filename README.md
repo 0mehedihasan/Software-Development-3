@@ -36,4 +36,12 @@ Users will receive notification emails in the following scenarios:
 - JSP
 ### Database:
 - MySQL
+### ================ Software And Tools Required ================
+- : Git [https://git-scm.com/downloads]
+- : Java JDK 8+ [https://www.oracle.com/bd/java/technologies/downloads/#jdk23-windows]
+- : Eclipse EE (Enterprise Edition) [https://www.eclipse.org/downloads/]
+- : Apache Maven [https://maven.apache.org/download.cgi]
+- : Tomcat v8.0+ [https://tomcat.apache.org/download-90.cgi]
+- : MySQL Server [https://dev.mysql.com/downloads/workbench/]
+- : MySQL Workbench [https://dev.mysql.com/downloads/workbench/]
 
