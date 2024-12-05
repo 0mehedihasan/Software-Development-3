@@ -34,6 +34,9 @@ Users will receive notification emails in the following scenarios:
 - JDBC
 - Servlets
 - JSP
+### ER Diagram
+<img width="589" alt="image" src="https://github.com/0mehedihasan/Software-Development-3/blob/main/Documentations/ER.jpg">
+
 ### Database:
 - MySQL
 ### ================ Software And Tools Required ================
