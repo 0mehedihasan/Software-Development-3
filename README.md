@@ -1,6 +1,6 @@
 # Deshi Gadgets
 This is an E-Commerce website built for the online sale of electronic products.
-
+ <!--
 ## Course Details:
 - **Course Name**: Software Engineering Lab
 - **Course Code**: 328
@@ -13,7 +13,7 @@ This is an E-Commerce website built for the online sale of electronic products.
     Lecturer, BUBT
     </div></a>
 </div>
-
+-->
 ## Our Team
 <div style="display: flex; align-items: center; margin: 10px;">
   <!-- Contributor 1 Image -->
