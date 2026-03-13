@@ -212,7 +212,7 @@ mailer.password=YOUR_APP_PASSWORD
 mvn clean install
 ```
 
-Deploy the generated `target/shopping-cart-0.0.1-SNAPSHOT.war` to your Tomcat `webapps/` directory and start Tomcat.
+Deploy the generated `target/shopping-cart-0.0.1-SNAPSHOT.war` to your Tomcat `webapps/` directory (rename it to `Deshi-Gadgets.war` to match the expected context path) and start Tomcat.
 
 #### Option B: Using Eclipse EE
 
@@ -237,7 +237,7 @@ http://localhost:8080/Deshi-Gadgets/
 | Role | Email | Password |
 |------|-------|----------|
 | Admin | `admin@gmail.com` | `admin` |
-| User | `guest@gmail.com` | `guest` |
+| Customer | `guest@gmail.com` | `guest` |
 
 ---
 
